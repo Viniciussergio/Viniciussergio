@@ -1,16 +1,18 @@
-### Hi there 👋
+### Seja bem vindo! Meu nome é Vinicius 👋
 
-<!--
-**Viniciussergio/Viniciussergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em Informática em Instituto Federal do Paraná
+Curitiba, Paraná, Brasil
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniciussergio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algumas informações sobre mim:
+
+- 🌱 Atualmente estou estudando ferramentas para desenvolvimento Web
+
+- 💬 Pergunte como anda meu andamento nos estudos que responderei com felicidade
+
+- 📫 Para contato me chame no e-mail: viniciussergio.so@gmail.com
+
+- 😄 Ele/Dele
+
+- ⚡  Fato Interessante: Mais do que tudo meu maior hobby é o montanhismo
